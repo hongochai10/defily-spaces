@@ -1,0 +1,10 @@
+{
+  "name": "@hongochai/defily-spaces",
+  "version": "0.0.1",
+  "repository": "snapshot-labs/defily-spaces",
+  "license": "MIT",
+  "files": [
+    "spaces",
+    "skins"
+  ]
+}
